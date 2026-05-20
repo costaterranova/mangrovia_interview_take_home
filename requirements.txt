@@ -1,0 +1,5 @@
+anthropic==0.103.0
+python-telegram-bot==22.7
+pydantic==2.13.4
+pydantic-settings==2.14.1
+python-dotenv==1.2.2
